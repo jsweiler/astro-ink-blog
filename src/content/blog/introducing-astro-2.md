@@ -11,7 +11,7 @@ date: "2023-01-25T10:23:31.210Z"
 image: https://astro.build/_astro/cover_Z1RYPju.webp
 category: design
 ---
-
+This is a new test!!!!!
 Unfortunately, modern web development has been trending in the opposite direction—towards more. More JavaScript, more features, more moving parts, and ultimately more complexity needed to keep it all running smoothly.
 
 Today I'm excited to publicly share Astro: a new kind of static site builder that delivers lightning-fast performance with a modern developer experience. To design Astro, we borrowed the best parts of our favorite tools and then added a few innovations of our own, including:
